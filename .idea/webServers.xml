@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c359def9-c927-49df-8d8b-f4d0b5c27f51" name="Wetter" url="http://localhost/wetter">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\wetter" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
